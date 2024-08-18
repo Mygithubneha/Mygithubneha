@@ -18,10 +18,10 @@ DevOps and Cloud Engineer
 
 As a DevOps Engineer, I’m all about making tech systems run like clockwork ⏰. My passion lies in automating workflows to ensure that cloud-based applications are reliable and efficient 🚀. I serve as the bridge between development and operations, helping to streamline everything from deploying code to managing infrastructure. With tools like Kubernetes, Docker, and Terraform in my toolkit 🛠️, I create and maintain cloud environments that are robust, secure, and easy to manage 🌐. Whether it’s configuring servers, optimizing cloud resources, or simplifying processes, my goal is to make things easier for developers and ensure systems operate without a hitch ⚙️.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [navasekar@gmail.com](mailto:navasekar@gmail.com)
-* 🚀  I'm currently working on [#30DaysOfKubernetes](http://github.com/Mygithubneha/30DaysOfKubernetes)
-* 🧠  I'm learning Python
+🌍  I'm based in India
+✉️  You can contact me at [navasekar@gmail.com](mailto:navasekar@gmail.com)
+🚀  I'm currently working on [#30DaysOfKubernetes](http://github.com/Mygithubneha/30DaysOfKubernetes)
+🧠  I'm learning Python
 
 <a href="https://www.github.com/Mygithubneha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mygithubneha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
