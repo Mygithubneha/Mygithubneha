@@ -1,9 +1,17 @@
 ![logo](https://github.com/Mygithubneha/Mygithubneha/blob/main/github-banner.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Avasekar
-=====================================================================================================================================
+<div id="header" align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300"/>
+</div>
 
-<image align="right" alt="coding" width=400 src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0Mzg5MjksIm5iZiI6MTcyMzQzODYyOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEyVDA0NTcwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3MDk2Nzk4NjQwYTIxOWExYjM2MTM1NjExNmM0ZTZmODZhZGI2OTQ3MTc2NTQ4ZTM3NjY3NWUwZmMyMzg4MmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rhypt8kmqZFpL3ly6wmejiMCR7iQslJe7B3Xlf5omFo">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/neha-avasekar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey++there%F0%9F%91%8B%2C+I+am+Neha+Avasekar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+DevOps!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
+
+
 
 DevOps and Cloud Engineer
 -------------------------
